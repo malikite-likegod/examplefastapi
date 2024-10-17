@@ -1,0 +1,8 @@
+app/__pychache__
+Scripts/
+Lib/
+Include/
+alembic/
+alembic.ini
+.env
+pyvenv.cfg
